@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=fQS9A4O_4uQ
+
+de a legjobb Biosba átállítani:
+BIOS (F2,F9,F10,F12 DEL) -> Boot -> Boot priority order: 1. Windows Boot manager
