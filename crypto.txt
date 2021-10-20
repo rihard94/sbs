@@ -1,0 +1,45 @@
+Crypto valuta
+1. Bitcoin
+2. Etherium
+Bitcoin, altcoin
+pénztárca - wallett
+bányászgépek bányászás
+bitcioin <- €,$
+decentrelizált (nincs állami szerv vagy bármi külső hatás ami hatással lenne rá)
+blokklánc 
+coinbase applikáció 21 millio bitcoin 89 % van kibányászva
+withe paper - miért hozták létre a cryptovalutát
+xrp
+lite coin
+kapitalizáció(mennyi pénz forog abba a valutába) és kinálat
+cardano, ada
+hibák:
+1. magasan vásárlás, olcson eladás
+2. egyből az összes tőke befektetése, helyette dollar cost average
+3. olcsó kripto vásárlás
+4. olyan alt coinok amik olcsók és nagyra nőhetnek
+5. tökettétes kereskedés, margin trading
+6. diverzifikáció - nem csak egy két coinra kell koncetrálni, olyan kell aminek van múltja
+
+stable coinok: stader ustb
+
+passziv jövedelmi befektetés
+proof of stake - kripto valuta lekötés
+Jó coinok:
+Cardano (Ada)- eitheriom konkurense - okos szerződések, az az alapja mint az etheriumé
+pancake swap - uniqecake swap és a etherium konkurense váltások miatt jobb mint az etheriumos tipusok
+cosmos - blokkláncok internete, tetszik
+polkadot - személyes adatok védeleme, decentralizált
+bnb
+
+
+de az a lényeg hogy elemezni kell mi van a coin mögött
+
+binance smart chain
+binance <-> etherium
+
+poor of stake - nem fogyaszt annyi energiat
+
+nft - nem mindegy hogy mit adunk vissza. Az NFT none fundioble tokens - nem felcserélhető kriptopénzek
+blokkllánc, elosztott adatbázis. Egy digitális alkotás, egyedi, megismételhetetlen, crypto kittys, lehet egy de akár 10.000 is
+de nem lehet felosztani. korlátozott darabszámban elérhető és személyre szabott lesz
